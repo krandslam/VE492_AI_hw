@@ -1,5 +1,4 @@
-2020 SU  
-Instructor: Paul Weng
+2020 SU
 
 Files explanation  
 answer.txt: answer for electronic version of hw.
