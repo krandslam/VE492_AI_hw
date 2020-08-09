@@ -1,6 +1,6 @@
-2020 SU
+## 2020 SU homework
 
 Files explanation  
-answer.txt: answer for electronic version of hw.
+- answer.txt: answer for electronic version of hw.
 
-Special thanks to Zhu Shunyi, who was a TA for VE492.
+## Special thanks to Zhu Shunyi, who was a TA for VE492.
