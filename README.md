@@ -1,4 +1,4 @@
-## 2020 SU homework
+## 2020 SU AI homework
 
 Files explanation  
 - answer.txt: answer for electronic version of hw.
