@@ -2,7 +2,7 @@
 
 Files description:  
 - hw#_eletronic.pdf: original hw pdf for electronic version.
-- A_hw#_eletronic.pdf: annotated hw pdf / some steps could be wrong
+- A_hw#_eletronic.pdf: self annotated hw pdf / some steps could be wrong
 - hw#_written.pdf: original hw pdf for written version.
 - answer.txt: answer for electronic version of hw.
 
